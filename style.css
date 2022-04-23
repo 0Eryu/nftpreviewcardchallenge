@@ -20,6 +20,9 @@ body{
     display: flex;
     flex-direction: column;
 }
+a{
+    text-decoration: none;
+}
 .wrapper img{
     width: 100%;
     border-radius: 10px;
